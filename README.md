@@ -79,7 +79,8 @@ print(f"{norm:.2f}")
 
 ## Output
 ```
-<img width="1160" height="666" alt="WhatsApp Image 2026-06-15 at 6 02 47 PM" src="https://github.com/user-attachments/assets/3ec1717a-4fe7-4e51-8cbf-2dedc81ac109" />
+<img width="1160" height="666" alt="image" src="https://github.com/user-attachments/assets/c8f5b8e1-a2a1-4d5f-a3c7-a9de406567b5" />
+
 
 
 
