@@ -78,13 +78,13 @@ print(f"{norm:.2f}")
 ```
 
 ## Output
-```
+
 <img width="1160" height="666" alt="image" src="https://github.com/user-attachments/assets/c8f5b8e1-a2a1-4d5f-a3c7-a9de406567b5" />
 
 
 
 
-```
+
 
 ## Result
 Thus the QR decomposition algorithm using the Gram-Schmidt process is written and verified the result.
