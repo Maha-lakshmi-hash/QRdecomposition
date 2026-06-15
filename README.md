@@ -79,10 +79,7 @@ print(f"{norm:.2f}")
 
 ## Output
 ```
-<img width="1920" height="1080" alt="Screenshot 2026-05-29 100845" src="https://github.com/user-attachments/assets/5fc3657b-b4c5-4060-a6de-c1e005a60ab5" />
-<img width="1920" height="1079" alt="Screenshot 2026-05-29 101100" src="https://github.com/user-attachments/assets/6d7757d0-3a08-434a-8615-f665b299bd21" />
-<img width="1920" height="1080" alt="Screenshot 2026-05-29 101111" src="https://github.com/user-attachments/assets/6b0a1682-32ec-4e0d-ab69-7c38c3883833" />
-
+<img width="1160" height="666" alt="WhatsApp Image 2026-06-15 at 6 02 47 PM" src="https://github.com/user-attachments/assets/3ec1717a-4fe7-4e51-8cbf-2dedc81ac109" />
 
 
 
